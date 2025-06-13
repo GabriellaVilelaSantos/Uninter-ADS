@@ -3,7 +3,8 @@ botao.style.background="#90EE90";
 let BemVindoa=false;
 botao.addEventListener("mouseover",e =>{
     if(!BemVindoa)
-    botao.style.background="#FFDAB9";
+      botao.style.background="#FFDAB9";
+      botao.style.color="white";
 });
 botao.addEventListener("mouseout",e =>{
     if(!Bem-Vindo(a)){
