@@ -4,7 +4,7 @@ let BemVindoa=false;
 botao.addEventListener("mouseover",e =>{
     if(!BemVindoa)
       botao.style.background="#FFDAB9";
-      botao.style.color="white";
+      botao.style.color="#BC8F8F";
 });
 botao.addEventListener("mouseout",e =>{
     if(!Bem-Vindo(a)){
