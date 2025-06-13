@@ -1,4 +1,3 @@
-# Uninter-ADS<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,6 +45,5 @@
    <button id="botao">Clique para ver uma mensagem!</button>
    <script src="script.js">Bem-Vindo</script>
 </body>
-
 </html>
    
