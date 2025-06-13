@@ -39,9 +39,7 @@
     </td>
    </table>
    <a class="Instagram" href="https://www.instagram.com/gabriella__vilela/">Instagram</a>
-   
+   <button id="botao">Clique para ver uma mensagem!</button>
 </body>
-    <button id="botao">Clique para ver uma mensagem!</button>
-   <script src="script.js">Bem-Vindo</script>
 </html>
    
