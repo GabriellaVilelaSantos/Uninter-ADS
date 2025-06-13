@@ -1,0 +1,39 @@
+.pagina{
+    background-color: #c5fdcc ;
+}
+
+.titulo{
+    background-color:#8ab186;
+    border-radius: 20px;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 570px;
+
+}
+.paragrafo{
+    font-size: 120%;
+    width: 90%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    height: 90px;
+    
+}
+.país{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 20%;
+}
+.lista{
+    text-align:left;
+    white-space: 20px;
+    list-style: inherit;
+    white-space-collapse: 30%;
+}
+.tabela{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.Instagram{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
