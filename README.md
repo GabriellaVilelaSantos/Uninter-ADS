@@ -41,5 +41,6 @@
    <a class="Instagram" href="https://www.instagram.com/gabriella__vilela/">Instagram</a>
    <button id="botao">Clique para ver uma mensagem!</button>
 </body>
+     <script src="script.js"></script>
 </html>
    
