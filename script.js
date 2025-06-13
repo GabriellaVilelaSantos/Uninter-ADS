@@ -14,4 +14,5 @@ botao.addEventListener("mouseout",e =>{
 botao.addEventListener("click",e =>{
     botao.style.background="#FFDAB9";
     botao.innerHTML="Bem-Vindo(a)";
+    BemVindoa=true;
 });
