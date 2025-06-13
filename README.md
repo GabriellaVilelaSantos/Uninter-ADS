@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body class="pagina">
@@ -39,9 +38,7 @@
         </a>
     </td>
    </table>
-   
    <a class="Instagram" href="https://www.instagram.com/gabriella__vilela/">Instagram</a>
-      
    <button id="botao">Clique para ver uma mensagem!</button>
    <script src="script.js">Bem-Vindo</script>
 </body>
